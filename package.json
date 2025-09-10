@@ -2,6 +2,7 @@
   "name": "react-easy-crop-demo-with-cropped-output",
   "version": "1.0.0",
   "description": "A React component to crop images with easy interactions",
+  "homepage": "https://mrerichoffman.github.io/image-resizer",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
