@@ -1,5 +1,5 @@
 {
-  "name": "react-easy-crop-demo-with-cropped-output",
+  "name": "image-resizer",
   "version": "1.0.0",
   "description": "A React component to crop images with easy interactions",
   "homepage": "https://mrerichoffman.github.io/image-resizer",
