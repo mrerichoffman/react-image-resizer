@@ -45,12 +45,6 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: './build'
-      
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4 # A common action for deploying to GitHub Pages
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build # The directory where your built app resides
 
   deploy:
     environment:
